@@ -1,10 +1,7 @@
-![Reactive Resume](https://i.imgur.com/FFc4nyZ.jpg)
 
 ![App Version](https://img.shields.io/github/package-json/version/21471A0505/Reactive-Resume?label=version)
 [![Docker Pulls](https://img.shields.io/docker/pulls/21471A0505/reactive-resume)](https://hub.docker.com/repository/docker/21471A0505/reactive-resume)
-[![GitHub Sponsors](https://img.shields.io/github/sponsors/21471A0505)](https://github.com/sponsors/21471A0505)
-[![Crowdin](https://badges.crowdin.net/reactive-resume/localized.svg)](https://crowdin.com/project/reactive-resume)
-[![Discord](https://img.shields.io/discord/1173518977851473940?label=discord&link=https%3A%2F%2Fdiscord.gg%2FhzwkZbyvUW)](https://discord.gg/hzwkZbyvUW)
+
 
 # Reactive Resume
 
@@ -38,9 +35,8 @@ Start creating your standout resume with Reactive Resume today!
 
 ## Features
 
-- **Free, forever** and open-source
+- **Free, forever** and easy access
 - No telemetry, user tracking or advertising
-- You can self-host the application in less then 30 seconds
 - **Available in multiple languages** ([help add/improve your language here](https://translate.rxresu.me/))
 - Use your email address (or a throw-away address, no problem) to create an account
 - You can also sign in with your GitHub or Google account, and even set up two-factor authentication for extra security
@@ -65,7 +61,7 @@ Start creating your standout resume with Reactive Resume today!
 
 ## Built With
 
-- React (Vite), for the frontend
+- React (Vite), HTML, CSS for the frontend
 - NestJS, for the backend
 - Postgres (primary database)
 - Prisma ORM, which frees you to switch to any other relational database with a few minor changes in the code
